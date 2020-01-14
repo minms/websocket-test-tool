@@ -1,6 +1,6 @@
 # websocket-test
 
-网页连接websocket测试工具
+网页连接websocket测试工具 [预览地址](https://minms.github.io/websocket-test-tool/)
 
 ## Project setup
 ```
