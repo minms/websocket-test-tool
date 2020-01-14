@@ -1,5 +1,7 @@
 # websocket-test
 
+网页连接websocket测试工具
+
 ## Project setup
 ```
 yarn install
@@ -10,10 +12,5 @@ yarn install
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Screenshot  
+![screenshot](https://raw.githubusercontent.com/minms/websocket-test-tool/master/screenshot.jpg)
