@@ -47,5 +47,5 @@ module.exports = {
       filename: `[name].${TimeStamp}.js`,
       chunkFilename: `[name].${TimeStamp}.js`
     },
-  },
+  }
 }
